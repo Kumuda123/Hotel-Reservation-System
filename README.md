@@ -8,7 +8,9 @@ This is a Java-based **Hotel Reservation System** that enables users to register
 ## Demo Video  
 Watch a walkthrough of the application in action:  
 🔗 [Hotel Booking System Demo](https://drive.google.com/file/d/1SIBXra4SHpceaALfBVXx4FtPyydqhoPW/view?usp=sharing)  
-*(PS: At 0:22 I don't actually select California — it's filtered later on)*---
+*(PS: At 0:22 I don't actually select California — it's filtered later on)*
+
+---
 
 ### ✅ Core Features  
 
