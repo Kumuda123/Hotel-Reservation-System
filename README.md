@@ -5,7 +5,10 @@
 ### 📌 Project Description  
 This is a Java-based **Hotel Reservation System** that enables users to register, log in, and manage room bookings through an intuitive graphical user interface (GUI). Users can view available rooms, make reservations, cancel bookings, and manage their account details. The system emphasizes user-friendliness and robustness, featuring real-time database operations and supporting concurrent user access.
 
----
+## Demo Video  
+Watch a walkthrough of the application in action:  
+🔗 [Hotel Booking System Demo](https://drive.google.com/file/d/1SIBXra4SHpceaALfBVXx4FtPyydqhoPW/view?usp=sharing)  
+*(PS: At 0:22 I don't actually select California — it's filtered later on)*---
 
 ### ✅ Core Features  
 
