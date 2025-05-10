@@ -36,7 +36,11 @@ This is a Java-based **Hotel Reservation System** that enables users to register
   Handles SQL-based interactions between the Java application and the SQLite database  
 
 - **Concurrency Handling**  
-  Room booking operations are synchronized to prevent race conditions and ensure accurate availability checks  
+  Room booking operations are synchronized to prevent race conditions and ensure accurate availability checks
+
+- **Salt & Pepper Password Hashing**  
+  User passwords are stored securely using a cryptographic hash combined with unique salts and a fixed pepper value. This adds an extra layer of protection against attacks and ensures that even if the database is compromised, raw passwords are not exposed.
+
 
 ---
 
